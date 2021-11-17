@@ -5,6 +5,9 @@ html {
 body {
     font-family:Arial, Helvetica, sans-serif;
     padding: 40px;
+    border-radius: 15px;
+    border-color:paleturquoise;
+    border-style:solid;
 }
 
 h1 {
