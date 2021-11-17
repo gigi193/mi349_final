@@ -1,0 +1,23 @@
+html {
+    background:lavenderblush;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 40px;
+}
+
+h1 {
+    color:midnightblue;
+}
+
+.button {
+    color:palegreen;
+    padding:40px;
+
+}
+
+p {
+    color:midnightblue;
+}
+
