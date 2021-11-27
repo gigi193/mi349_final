@@ -12,10 +12,16 @@ body {
 
 h1 {
     color:midnightblue;
+    text-align: center;
+    background-color:powderblue;
+    text-shadow:2px 2px white;
 }
 
 h2 {
     color:midnightblue;
+    text-align: center;
+    background-color: powderblue;
+    text-shadow:2px 2px white;
 }
 
 .button {
@@ -29,3 +35,21 @@ p {
     color:midnightblue;
 }
 
+#nav {
+	list-style-type: none;
+	background-color:skyblue;
+	padding: 25px;
+	border-color:teal;
+	border: 5px solid; 
+	text-align: center;
+}
+
+
+#nav a {
+	color:slateblue;
+	text-decoration:none;
+	background-color:salmon;
+	padding: 10px;
+	margin-left: -4px;
+	display:inline-block;
+}
