@@ -84,7 +84,8 @@ p {
 #nav ul {
 	color:aliceblue;
 	display: flex;
-    justify-content: space-between;
+    
+    justify-content: space-evenly;
 }
 
 #nav a:hover {
