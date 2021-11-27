@@ -64,7 +64,7 @@ p {
 	background-color:rgb(5, 134, 185);
 	padding: 8px;
 	border-color:teal;
-	border: 2px solid teal; 
+	border: 2px solid white; 
 	text-align: center;
     display:flex;
     flex-flow: row nowrap;
