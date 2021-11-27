@@ -1,4 +1,8 @@
 html {
+    background-color: plum;
+}
+
+div {
     background-image:url(IMG_4757.jpg);
     opacity:0.2;
     z-index:-1;
