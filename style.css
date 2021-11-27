@@ -61,10 +61,10 @@ p {
 
 #nav {
 	list-style-type: none;
-	background-color:skyblue;
-	padding: 5px;
+	background-color:rgb(5, 134, 185);
+	padding: 8px;
 	border-color:teal;
-	border: 5px solid; 
+	border: 2px solid teal; 
 	text-align: center;
     display:flex;
     flex-flow: row nowrap;
