@@ -6,6 +6,7 @@ html {
 div {
     display:block;
     position:relative;
+    background-size:100%;
 }
 
 div::after {
