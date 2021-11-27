@@ -43,7 +43,7 @@ p {
 	border: 5px solid; 
 	text-align: center;
     display:flex;
-    flex-flow: row;
+    flex-flow: row nowrap;
     justify-content:space-evenly;
 }
 
