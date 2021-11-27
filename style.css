@@ -53,3 +53,18 @@ p {
 	margin-left: -4px;
 	display:inline-block;
 }
+
+#nav ul {
+	color:aliceblue;
+	display: inline-block;
+}
+
+#nav a:hover {
+	text-decoration:overline;
+	background-color:#FFF4F5;
+}
+
+#nav li {
+	display: inline;
+	
+}
