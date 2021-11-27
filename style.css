@@ -56,13 +56,13 @@ h2 {
 
 p {
     color:midnightblue;
-    text-shadow:1px white;
+    text-shadow:1px 1px white;
 }
 
 #nav {
 	list-style-type: none;
 	background-color:skyblue;
-	padding: 25px;
+	padding: 10px;
 	border-color:teal;
 	border: 5px solid; 
 	text-align: center;
