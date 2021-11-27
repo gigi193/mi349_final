@@ -48,7 +48,7 @@ p {
 #nav a {
 	color:slateblue;
 	text-decoration:none;
-	background-color:salmon;
+	background-color:pink;
 	padding: 10px;
 	margin-left: -4px;
 	
@@ -66,6 +66,7 @@ p {
 }
 
 #nav li {
-	display: inline;
+	display: inline-block;
+    padding: 10px;
 	
 }
