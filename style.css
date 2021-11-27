@@ -21,6 +21,7 @@ div::after {
     background-repeat:repeat;
     background-size:cover;
     z-index:-1;
+    background-size:100%;
 }
 
 body {
@@ -54,6 +55,7 @@ h2 {
 
 p {
     color:midnightblue;
+    text-shadow:2px 2px white;
 }
 
 #nav {
