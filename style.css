@@ -88,6 +88,9 @@ img {
 	transition: 1s ease-in-out;
 }
 
+.row {
+    display:flex;
+}
 .column {
     float:left;
     width:50%;
