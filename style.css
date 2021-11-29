@@ -120,3 +120,40 @@ img {
     width:50%;
     padding:5px;
 }
+
+a {
+    font-weight: bold;
+      text-decoration: none;
+      color: #300102;
+  }
+  
+  a:link {
+      color:#43004B;
+      text-decoration:none;
+      font-weight:bold;
+      
+  }
+  
+  a:hover {
+      text-decoration: underline;
+      color: #DFEE5A;
+      font-weight:bold;
+      
+  }
+  
+  a:visited {
+      color:#0D0067;
+  }
+  
+  a:active {
+      background-color:#F9C9A5;
+  }
+
+ul {
+    color:midnightblue;
+    list-style-type: square;
+}
+
+ol {
+    color:midnightblue;
+}
