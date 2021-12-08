@@ -169,7 +169,7 @@ input[type="text"], input[type="password"], input[type="email"]{
     padding: 10px;
     display: inline-block;
     border:white 10px;
-    background:lightskyblue;
+    background:lightblue;
     margin: 5px;
 }
 
@@ -184,7 +184,7 @@ input[type="text"], select {
 }
 
 .Sub {
-    background-color:slateblue;
+    background-color:lightcoral;
     color:white;
     padding: 10px;
     border:solid;
