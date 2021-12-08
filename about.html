@@ -43,25 +43,21 @@
     <section>
         <h1>Subsribe Today!</h1>
         <form>
-            <label>Name:
-                <input type="text">
-            </label>
-            <label>Email address
-                <input type="email">
-            </label>
-            <label for="material">What type of art paint?
-            </label>
-            <select name="material" id="materials">
-                <option value="acrylic">Acrylic paint</option>
-                <option value="oil">Oil paint</option>
-                <option value="pastel">Pastel</option>
-                <option value="chalk">chalk</option>
-                <option value="pencil">Graphic pencil</option>
-                <option value="markers">Brush markers</option>
-            </select>
-            <label for="What ">Any comments</label>
-            <textarea id="comment" name="comment"></textarea>
-            <button>Subscribe</button>
+            <div class="Subscribe">
+                <label for="name">Name:</label>
+                <input type="text" placeholder="Enter name" name="name" required>
+
+                <label for="email">Email address:<input type="email"></label>
+                <input type="text" placeholder="Enter Email" name="email" required>
+
+                <label for="pswd"><b>Password:</b></label>
+                <input type="password" placeholder="Enter Password" name="psw" required>
+
+                <label for="pswd_repeat"><b>Repeat Password:</b></label>
+                <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+            
+                <button type="submit" class="Sub">Subscribe!</button>
+            </div>
         </form>
     </section>
     </div>
