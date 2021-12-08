@@ -160,6 +160,10 @@ ol {
 
 .Subscribe {
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
 }
 
 input[type="text"], input[type="password"], input[type="email"]{
@@ -184,10 +188,6 @@ input[type="text"]:focus, input[type="password"]:focus{
     width:50%;
     text-align:center;
     display: inline-block;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    height: 100vh; 
 }
 
 div.Sub {
