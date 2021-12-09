@@ -47,7 +47,7 @@ h2 {
     text-shadow:2px 2px white;
 }
 
-h2 {
+h3 {
     color:midnightblue;
     text-align: center;
     background-color:turquoise;
@@ -221,9 +221,10 @@ div.Sub {
 
 .Size {
     background-color: paleturquoise;
-    padding: 10px;
+    padding: 20px;
     color:black;
     display:block;
+    overflow: hidden;
 }
 
 select {
