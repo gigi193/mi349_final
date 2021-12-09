@@ -223,19 +223,28 @@ div.Sub {
     background-color: paleturquoise;
     padding: 10px;
     color:black;
+    display:block;
+}
+
+select {
+    position:absolute;
+    background-color:lightblue;
+    padding: 10px;
+    display:block;
 }
 
 .Size-content {
     position:absolute;
     background-color:lightblue;
     padding: 10px;
-
+    display:block;
 }
 
 .Material {
     background-color: paleturquoise;
     padding: 10px;
     color:black;
+    display:block;
 }
 
 .Material-content {
