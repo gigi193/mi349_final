@@ -223,7 +223,7 @@ div.Sub {
     background-color: paleturquoise;
     padding: 20px;
     color:black;
-    display:block;
+    display:inline-block;
     overflow: hidden;
 }
 
@@ -232,9 +232,6 @@ select {
     background-color:lightblue;
     padding: 10px;
     display:block;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    text-overflow: ellipsis;
 }
 
 .Size-content {
