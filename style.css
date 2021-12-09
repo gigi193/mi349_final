@@ -219,12 +219,13 @@ div.Sub {
     text-align:center;
 }
 
-select {
+/*select {
     position:absolute;
     background-color:lightblue;
     padding: 10px;
     display:block;
 }
+*/
 
 .Size {
     background-color: paleturquoise;
