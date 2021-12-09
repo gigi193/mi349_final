@@ -47,6 +47,13 @@ h2 {
     text-shadow:2px 2px white;
 }
 
+h2 {
+    color:midnightblue;
+    text-align: center;
+    background-color:turquoise;
+    text-shadow:2px 2px white;
+}
+
 .button {
     color:palegreen;
     padding:40px;
@@ -218,8 +225,21 @@ div.Sub {
     color:black;
 }
 
+.Size-content {
+    position:absolute;
+    background-color:lightblue;
+    padding: 10px;
+
+}
+
 .Material {
     background-color: paleturquoise;
     padding: 10px;
     color:black;
+}
+
+.Material-content {
+    position:absolute;
+    background-color:lightblue;
+    padding: 10px;
 }
