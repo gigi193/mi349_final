@@ -202,6 +202,18 @@ input[type="text"], select {
     display: inline-block;
 }
 
+.Submit {
+    background-color:lightcoral;
+    color:white;
+    padding: 10px;
+    border:solid;
+    cursor:pointer;
+    opacity:0.8;
+    width:50%;
+    text-align:center;
+    display: inline-block;
+}
+
 div.Sub {
     display: block;
     text-align: center;
